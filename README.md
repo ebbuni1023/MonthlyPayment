@@ -1,0 +1,2 @@
+# MonthlyPayment
+C program to calculate monthly payment and print a table of payment schedule over a year. This is a simplify version so there is no interest rate, and balance is deducted the same amount every month. In this C program, the input and output are defined as following: Input: amount of loan. Output: a table of amortization schedule (also called payment schedule) containing payment number, monthly payment, new balance at each row. Implemented this C program without the usage of arrays and functions.
